@@ -11,7 +11,7 @@ namespace riga_school
             Console.ReadLine();
             //comment
             //comment
-            //comment
+            //comment one more one 
         }
     }
 }
