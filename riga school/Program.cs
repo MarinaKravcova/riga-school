@@ -6,6 +6,7 @@ namespace riga_school
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
 
             #region Casting
 
@@ -50,6 +51,14 @@ namespace riga_school
             Console.WriteLine(Environment.NewLine);
 
          #endregion MyWorld
+=======
+            Console.WriteLine("Hello World!" +
+                "My name is Marina,\n spend 13 h per day on computer,\nthats why I can`t wright down the long text for my home work \n I have a dog, it is preatty. I have a masters degree in Publick relations and advertising.");
+            Console.ReadLine();
+            //comment
+            //comment
+            //comment one more one 
+>>>>>>> c751eac294d29b43842e32921bb3503819d2c1c0
         }
     }
 }
