@@ -18,7 +18,23 @@ namespace _13_10_class
             //sxpresion ? value_1 : value_2
 
             string truOrFalse = (number > 1) ? "It is grater then 1" : "it is not greater then one";
-            Console.WriteLine(); 
+            Console.WriteLine();
+
+            #endregion
+
+            #region more Math
+
+            int a = 100;
+           
+            
+            for (int i; i > 5; i++) i = 0;
+            {
+                Console.WriteLine (a);
+
+             
+            }
+
+            Console.ReadLine();
 
             #endregion
 

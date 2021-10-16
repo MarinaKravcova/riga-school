@@ -5,9 +5,13 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "riga school", "riga school\riga school.csproj", "{4ADA864C-9E62-4342-8E97-05FE1D89C349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-work-module-2", "home-work-module-2\home-work-module-2.csproj", "{BF013228-E706-4F9D-B983-2525015E0974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "home-work-module-3", "home-work-module-2\home-work-module-3.csproj", "{BF013228-E706-4F9D-B983-2525015E0974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-10-class", "13-10-class\13-10-class.csproj", "{650D84A2-195C-45A4-8E3A-91C5B2F8A9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-10-class", "13-10-class\13-10-class.csproj", "{650D84A2-195C-45A4-8E3A-91C5B2F8A9B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-10-class", "14-10-class\14-10-class.csproj", "{B9CE770C-A902-470C-83E8-9943CE9DAF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home_work_module_4", "home_work_module_4\home_work_module_4.csproj", "{0399FCC3-D5C4-46B8-81B3-7B3257F03E76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{650D84A2-195C-45A4-8E3A-91C5B2F8A9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{650D84A2-195C-45A4-8E3A-91C5B2F8A9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{650D84A2-195C-45A4-8E3A-91C5B2F8A9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CE770C-A902-470C-83E8-9943CE9DAF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CE770C-A902-470C-83E8-9943CE9DAF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CE770C-A902-470C-83E8-9943CE9DAF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CE770C-A902-470C-83E8-9943CE9DAF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0399FCC3-D5C4-46B8-81B3-7B3257F03E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0399FCC3-D5C4-46B8-81B3-7B3257F03E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0399FCC3-D5C4-46B8-81B3-7B3257F03E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0399FCC3-D5C4-46B8-81B3-7B3257F03E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
