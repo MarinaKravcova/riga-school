@@ -50,7 +50,7 @@ namespace home_work_module_4
                     Console.WriteLine("31 days");
                     break;
                 default:
-                    Console.WriteLine("Invalid input!!! enter month number between 1-12");
+                    Console.WriteLine(" Please enter month number between 1-12");
                     break;
 
 
